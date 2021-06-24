@@ -1,3 +1,5 @@
+不错 包括 插件版  和  网页版
+
 h1. elasticsearch-head
 
 h2. A web front end for an Elasticsearch cluster
